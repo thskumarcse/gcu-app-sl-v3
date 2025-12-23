@@ -1,4 +1,8 @@
-numpy==1.24.4
-streamlit==1.30.0
-pandas==1.5.3
-
+streamlit>=1.32
+pandas>=1.5,<2.1
+numpy>=1.23,<2.0
+streamlit-option-menu
+python-dateutil
+openpyxl
+reportlab
+bcrypt

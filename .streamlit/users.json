@@ -1,0 +1,50 @@
+[
+  {
+    "emp_id": "guest",
+    "name": null,
+    "school": null,
+    "designation": null,
+    "email_id": null,
+    "mobile_no": null,
+    "date_of_birth": "1973-06-10",
+    "department": null,
+    "password": "$2b$12$7oLadvZbZjW1O15z0UzC/ulgpKAfeSDePySZMJMlt3n81h4IRIpOO",
+    "user_type": "guest"
+  },
+  {
+    "emp_id": "GCU020130",
+    "name": "Ankur Jyoti Kashyap",
+    "school": "School of Natural Science",
+    "designation": "Assistant Professor",
+    "email_id": "ankur_maths@gcuniversity.ac.in",
+    "mobile_no": "8011180712",
+    "date_of_birth": "1993-05-12",
+    "department": "Department of Mathematics",
+    "password": "$2b$12$HR9Z2PCZP7bVTT3.t4dBqOckgAGLpbi3OcTldL68giS6iL.lAkrcG",
+    "user_type": "exam"
+  },
+  {
+    "emp_id": "GCU010040",
+    "name": "Banajit Nath",
+    "school": "Administration",
+    "designation": "-",
+    "email_id": "banajit_adm@gcuniversity.ac.in",
+    "mobile_no": "7002525512",
+    "date_of_birth": "1987-01-03",
+    "department": "-",
+    "password": "$2b$12$IWPL04aoMDl61C..xdQTQ.Ze48uJtqWkfxFA/Tgz6nONd/tuuVNWq",
+    "user_type": "hr"
+  },
+  {
+    "emp_id": "GCU020057",
+    "name": "Thokchom Shanta Kumar",
+    "school": "School Of Engineering and Technology",
+    "designation": "Associate Professor",
+    "email_id": "shantakumar_cse@gcuniversity.ac.in",
+    "mobile_no": "9707819978",
+    "date_of_birth": "1973-06-10",
+    "department": "Department of Computer Science and Engineering",
+    "password": "$2b$12$ZTZQ05y1HU8aXDU7h5U./OK2lyHdUqZFxGpZgOSvTWgxDWkdHCoXi",
+    "user_type": "admin"
+  }
+]
